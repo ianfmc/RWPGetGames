@@ -15,5 +15,3 @@ describe('Get All Teams', function() {
 		return;
 	});
 });
-
-
